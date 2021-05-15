@@ -1,6 +1,18 @@
 # Compiled class file
 *.class
 
+# Gradle
+.gradle
+
+# IDE
+.vscode
+.classpath
+.project
+.settings
+
+# Build
+target
+
 # Log file
 *.log
 
