@@ -23,7 +23,7 @@
         <repository>
             <id>github_blurryworks</id>
             <name>GitHub BlurryWorks Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/BlurryWorks/fragment</url>
+            <url>https://maven.pkg.github.com/BlurryWorks/packages</url>
         </repository>
     </distributionManagement>
 
